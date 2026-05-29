@@ -1,6 +1,6 @@
 # ayfal.github.io
 
-[Elementary Arithmetic Game](https://ayfal.github.io/elementary-arithmetic-game/)  
+[Elementary Arithmetic Game](https://ayfal.github.io/elementary-arithmetic-game/)  [Fast Paced Version](https://ayfal.github.io/elementary-arithmetic-game/exp.html) [Beginner Version](https://ayfal.github.io/elementary-arithmetic-game/beginners.html)  
 [Fat Loss Trainer](https://ayfal.github.io/fat-loss-trainer/)  
 [Repetition Scheduler](https://ayfal.github.io/repetition-scheduler/)  
 [FocusPulse](https://ayfal.github.io/focus-pulse/Browser%20version/FocusPulse.html)  
